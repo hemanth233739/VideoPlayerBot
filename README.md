@@ -9,10 +9,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/VideoPlayerBot?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/VideoPlayerBot)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/VideoPlayerBot)
-[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/AsmSafone)
+[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/hgbotsupportchannel)
 [![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/safothebot)
 
-An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Telegram Voice Chat.
+An Telegram Bot By [@HEMANTHGAMING1K](https://t.me/hgbotsupportchannel) To Stream Videos in Telegram Voice Chat.
 
 ## Main Features
 
