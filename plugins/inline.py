@@ -28,11 +28,15 @@ buttons = [
             [
                 InlineKeyboardButton("CHANNEL", url="https://t.me/hgbotsupportchannel"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/hgvideobotsupportgroup"),
-            ],
-            [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="Private😎😂,
-            ]
-         ]
+           ],
+           [
+                InlineKeyboardButton("CREATER", url="https://t.me/NOOBGUY_OP"),
+                InlineKeyboardButton("MY FRND ", url="https://t.me/FINAL_STRIKER_BOT"),
+           ],
+           [
+                InlineKeyboardButton("DEV", url="https://t.me/NOOBGUY_OP"),
+  
+          ]
 
 @Client.on_inline_query()
 async def search(client, query):
